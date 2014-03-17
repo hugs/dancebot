@@ -18,18 +18,13 @@ In this workshop, you'll assemble a small, humanoid robot designed to dance. The
 </p>
 
 <p>
-<img src="dancing-nodebot.png" width="500px"/>
+<img src="img/dancing-nodebot.png" width="500px"/>
 </p>
 
  
 
-<h3>Preparations</h3>
-   
-<p>
-<img src="IMG_20131016_035306.jpg" width="500px"/>
-</p>
-
-<p>
+### Preparations
+  
 <ul>
     <!-- electronics -->
     <lh><b>Electronics:</b></lh>
