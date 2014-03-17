@@ -39,12 +39,12 @@ In this workshop, you'll assemble a small, humanoid robot designed to dance. The
     <br/>
     <!-- printed parts -->
     <lh><b>Printed parts:</b></lh>
-    <li>1 Dancebot head</li>
-    <li>2 Bitbeam Arduino mounting plate</li>
-    <li>4 Bitbeam servo mounts</li>
-    <li>2 Bitbeam servo arms</li>
-    <li>11 Bitbeam 1x9 beam</li>
-    <li>2 Bitbeam 2x11 plate</li>
+    <li>1 - Dancebot head</li>
+    <li>2 - Bitbeam Arduino mounting plate</li>
+    <li>4 - Bitbeam servo mounts</li>
+    <li>2 - Bitbeam servo arms</li>
+    <li>11 - Bitbeam 9x1 beam</li>
+    <li>2 - Bitbeam 11x2 plate</li>
 
     <br/>
     <!-- nuts and bolts -->
