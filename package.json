@@ -15,8 +15,7 @@
    },
    "dependencies":{
       "johnny-five":"0.7.17",
-      "socket.io":"0.9.11",
-      "sylvester":"0.0.21"
+      "socket.io":"0.9.11"
    },
    "keywords":[
 
