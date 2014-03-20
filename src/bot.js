@@ -2,7 +2,6 @@ five = require("johnny-five");
 board = new five.Board({
   debug: false
 });
-require("sylvester");
 
 board.on("ready", function() {
     var servo1 = five.Servo(9);
