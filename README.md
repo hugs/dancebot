@@ -47,26 +47,26 @@ Dancebot will have the following features:
 
 #### Assembly Tools
 
-- 1x 7/32 hex driver</li>
-- 1x 3/32 hex driver</li>
-- 1x 5/32 hex driver</li>        
-- 1x Phillips #1 screwdriver</li>
+- 1x Phillips #1 screwdriver
+- 1x 7/64 hex driver
+- 1x 3/32 hex driver
+- 1x 5/32 hex driver
 
 ### Assembly
 
-[Build instructions](http://www.flickr.com/photos/68386867@N05/sets/72157642481371803/)
+Build instructions can be found [here](http://www.flickr.com/photos/68386867@N05/sets/72157642481371803/).
 
 ### Programming
 
 #### Arduino
 
-1. Download and install the Arduino Client: [http://arduino.cc/en/Guide/HomePage](http://arduino.cc/en/Guide/HomePage)
-2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working.
-3. From the Arduino IDE upload the "Firmata" script: File -> Open -> Examples > Firmata > StandardFirmata
+1. Download and install [the Arduino Client](http://arduino.cc/en/Guide/HomePage](http://arduino.cc/en/Guide/HomePage)
+2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working
+3. From the Arduino IDE upload the "Firmata" script: `File` -> `Open` -> `Examples` > `Firmata` > `StandardFirmata`
 
 #### Node
 
 1. [Install Node](http://nodejs.org/download/)
 2. Install the dependencies: `npm install`
 3. Start'er up: `node bot.js`
-4. Start dancing: `dance()`
+4. Start dancin': `dance()`
