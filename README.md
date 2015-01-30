@@ -69,7 +69,7 @@ Build instructions can be found [here](http://www.flickr.com/photos/68386867@N05
 
 #### Arduino
 
-1. Download and install [the Arduino Client](http://arduino.cc/en/Guide/HomePage](http://arduino.cc/en/Guide/HomePage)
+1. Download and install [the Arduino Client](http://arduino.cc/en/Guide/HomePage)
 2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working
 3. From the Arduino IDE upload the "Firmata" script: `File` -> `Open` -> `Examples` > `Firmata` > `StandardFirmata`
 
