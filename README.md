@@ -30,30 +30,36 @@ Quantity | Description
 
 #### Printed Parts
 
-- 1x  Dancebot head
-- 2x  Bitbeam Arduino mounting plate
-- 4x  Bitbeam servo mounts
-- 2x  Bitbeam servo arms
-- 11x Bitbeam 9x1 beam
-- 2x  Bitbeam 11x2 plate
+Quantity | Description
+--- | ---
+1   |  Dancebot head
+2   |  Bitbeam Arduino mounting plate
+4   |  Bitbeam servo mounts
+2   |  Bitbeam servo arms
+11  | Bitbeam 9x1 beam
+2   |  Bitbeam 11x2 plate
 
 #### Nuts & Bolts
 
-- 22x 10-32 nuts
-- 8x 6-32 nuts
-- 2x 4-40 nuts
-- 8x 3/4-inch 10-32 bolts
-- 10x 1-inch 10-32 bolts
-- 4x 1-1/4-inch 10-32 bolts
-- 8x 6-32 bolts
-- 4x 1/2 inch 4-40 bolts
+Quantity | Description
+--- | ---
+22  | 10-32 nuts
+8   | 6-32 nuts
+2   | 4-40 nuts
+8   | 3/4-inch 10-32 bolts
+10  | 1-inch 10-32 bolts
+4   | 1-1/4-inch 10-32 bolts
+8   | 6-32 bolts
+4   | 1/2 inch 4-40 bolts
 
 #### Assembly Tools
 
-- 1x Phillips #1 screwdriver
-- 1x 7/64 hex driver
-- 1x 3/32 hex driver
-- 1x 5/32 hex driver
+Quantity | Description
+--- | ---
+1x  | Phillips #1 screwdriver
+1x  | 7/64 hex driver
+1x  | 3/32 hex driver
+1x  | 5/32 hex driver
 
 ### Assembly
 
