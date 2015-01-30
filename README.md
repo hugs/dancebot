@@ -20,7 +20,7 @@ Dancebot will have the following features:
 #### Electronics:
 
 Quantity | Description
---- | ---
+:---: | ---
 1 | Arduino UNO
 1 | Arduino Sensor Shield V4
 3 | HiTec HS-311 servos
@@ -31,7 +31,7 @@ Quantity | Description
 #### Printed Parts
 
 Quantity | Description
---- | ---
+:---: | ---
 1   |  Dancebot head
 2   |  Bitbeam Arduino mounting plate
 4   |  Bitbeam servo mounts
@@ -42,7 +42,7 @@ Quantity | Description
 #### Nuts & Bolts
 
 Quantity | Description
---- | ---
+:---: | ---
 22  | 10-32 nuts
 8   | 6-32 nuts
 2   | 4-40 nuts
@@ -55,7 +55,7 @@ Quantity | Description
 #### Assembly Tools
 
 Quantity | Description
---- | ---
+:---: | ---
 1x  | Phillips #1 screwdriver
 1x  | 7/64 hex driver
 1x  | 3/32 hex driver
