@@ -1,87 +1,81 @@
 <center>
-<h2>Dancebot - The Dancing Robot</h2>
-<i>By Jason Huggins (@hugs)</i>
+## Dancebot - The Dancing Robot
+__By Jason Huggins ([@hugs](https://twitter.com/hugs))__
 </center>
 
-<h3>Overview</h3>
+### Overview
 
-<p>
 In this workshop, you'll assemble a small, humanoid robot designed to dance. The moving parts of the robot are called "Bitbeam". Bitbeam is LEGO Technic-compatible, but made with a 3D printer. 3D printing is a beginner-friendly, low-cost, open-source alternative for creating mechanical robot parts.
-<p>
 
-<p>Dancebot will have the following features:
-<ul>
-    <li>Swivel head side to side.</li>
-    <li>Rotate each arm up and down.</li>
-    <li>Bust a move.</li>
-</ul>
-</p>
+Dancebot will have the following features:
 
-<p>
+- Swivel head side to side
+- Rotate each arm up and down
+- Bust a move.
+
 <img src="img/dancing-nodebot.png" width="500px"/>
-</p>
 
- 
+### Parts List
 
-### Preparations
-  
-<ul>
-    <!-- electronics -->
-    <lh><b>Electronics:</b></lh>
-    <li>1 Arduino UNO</li>
-    <li>1 Arduino Sensor Shield V4</li>
+#### Electronics:
 
-    <li>3 HiTec HS-311 servos</li>
-    <li>1 servo horn (round)</li>
-    <li>2 servo horns (White, straight)</li>
-    <li>6 servo horn mounting screws</li>
+Quantity | Description
+:---: | ---
+1 | Arduino UNO
+1 | Arduino Sensor Shield V4
+3 | HiTec HS-311 servos
+1 | Servo horn (red, cross)
+2 | Servo horns (white, straight)
+6 | Servo horn mounting screws
 
-    <br/>
-    <!-- printed parts -->
-    <lh><b>Printed parts:</b></lh>
-    <li>1 - Dancebot head</li>
-    <li>2 - Bitbeam Arduino mounting plate</li>
-    <li>4 - Bitbeam servo mounts</li>
-    <li>2 - Bitbeam servo arms</li>
-    <li>11 - Bitbeam 9x1 beam</li>
-    <li>2 - Bitbeam 11x2 plate</li>
+#### Printed Parts
 
-    <br/>
-    <!-- nuts and bolts -->
-    <lh><b>Nuts and bolts:</b></lh>    
-    <li>8 3/4-inch 10-32 bolts</li>    
-    <li>10 1-inch 10-32 bolts</li>
-    <li>4 1 1/2-inch 10-32 bolts</li>
-    <li>8 6-32 bolts</li>
-    <li>2 1/2 inch 4-40 bolts</li>
+Quantity | Description
+:---: | ---
+1   |  Dancebot head
+2   |  Bitbeam Arduino mounting plates
+4   |  Bitbeam servo mounts
+2   |  Bitbeam servo arms
+11  |  Bitbeam 9x1 beams
+2   |  Bitbeam 11x2 plates
 
-    <li>22 10-32 nuts</li>    
-    <li>8 6-32 nuts</li>
-    <li>2 4-40 nuts</li>
+#### Nuts & Bolts
 
-    <br/>
-    <!-- assembly tools -->
-    <lh><b>Assembly tools:</b></lh>        
-    <li>1 7/32 hex driver</li>
-    <li>1 3/32 hex driver</li>
-    <li>1 5/32 hex driver</li>        
-    <li>1 Phillips #1 screwdriver</li>
+Quantity | Type | Size
+:---: | --- | ---
+22  | nuts  | 10-32
+8   | bolts | 10-32 3/4" 
+10  | bolts | 10-32 1" 
+4   | bolts | 10-32 1-1/4" 
+8   | nuts  | 6-32
+8   | bolts | 6-32 3/4" 
+2   | nuts  | 4-40
+4   | bolts | 4-40 1/2"
 
-</ul> 
+#### Assembly Tools
+
+Quantity | Description
+:---: | ---
+1x  | Phillips #1 screwdriver
+1x  | 7/64 hex driver
+1x  | 3/32 hex driver
+1x  | 5/32 hex driver
 
 ### Assembly
-[Build instructions are available on Flickr](http://www.flickr.com/photos/68386867@N05/sets/72157642481371803/)
+
+Build instructions can be found [here](http://www.flickr.com/photos/68386867@N05/sets/72157642481371803/).
 
 ### Programming
 
 #### Arduino
-1. Download and install the Arduino Client: [http://arduino.cc/en/Guide/HomePage](http://arduino.cc/en/Guide/HomePage)
-2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working.
-3. From the Arduino IDE upload the "Firmata" script: File -> Open -> Examples > Firmata > StandardFirmata
+
+1. Download and install [the Arduino Client](http://arduino.cc/en/Guide/HomePage)
+2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working
+3. From the Arduino IDE upload the "Firmata" script: `File` -> `Open` -> `Examples` > `Firmata` > `StandardFirmata`
 
 #### Node
+
 1. [Install Node](http://nodejs.org/download/)
 2. Install the dependencies: `npm install`
 3. Start'er up: `node bot.js`
-4. Start dancing: `dance()`
-
+4. Start dancin': `dance()`
