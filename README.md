@@ -19,13 +19,14 @@ Dancebot will have the following features:
 
 #### Electronics:
 
-Quantity | Description  
-1 | Arduino UNO  
-1 | Arduino Sensor Shield V4  
-3 | HiTec HS-311 servos  
-1 | servo horn (round)  
-2 | servo horns (White, straight)  
-6 | servo horn mounting screws  
+| Quantity | Description |
+| -- | -- |
+| 1 | Arduino UNO |
+| 1 | Arduino Sensor Shield V4 |
+| 3 | HiTec HS-311 servos |
+| 1 | servo horn (round) |
+| 2 | servo horns (White, straight) |
+| 6 | servo horn mounting screws |
 
 #### Printed Parts
 
