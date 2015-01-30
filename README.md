@@ -24,20 +24,20 @@ Quantity | Description
 1 | Arduino UNO
 1 | Arduino Sensor Shield V4
 3 | HiTec HS-311 servos
-1 | servo horn (round)
-2 | servo horns (White, straight)
-6 | servo horn mounting screws
+1 | Servo horn (red, cross)
+2 | Servo horns (white, straight)
+6 | Servo horn mounting screws
 
 #### Printed Parts
 
 Quantity | Description
 :---: | ---
 1   |  Dancebot head
-2   |  Bitbeam Arduino mounting plate
+2   |  Bitbeam Arduino mounting plates
 4   |  Bitbeam servo mounts
 2   |  Bitbeam servo arms
-11  | Bitbeam 9x1 beam
-2   |  Bitbeam 11x2 plate
+11  |  Bitbeam 9x1 beams
+2   |  Bitbeam 11x2 plates
 
 #### Nuts & Bolts
 
