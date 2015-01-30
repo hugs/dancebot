@@ -30,8 +30,6 @@ Quantity | Description
 
 #### Printed Parts
 
-Printed Parts
----
 Quantity | Description
 :---: | ---
 1   |  Dancebot head
