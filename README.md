@@ -41,16 +41,16 @@ Quantity | Description
 
 #### Nuts & Bolts
 
-Quantity | Description
-:---: | ---
-22  | 10-32 nuts
-8   | 6-32 nuts
-2   | 4-40 nuts
-8   | 3/4-inch 10-32 bolts
-10  | 1-inch 10-32 bolts
-4   | 1-1/4-inch 10-32 bolts
-8   | 6-32 bolts
-4   | 1/2 inch 4-40 bolts
+Quantity | Type | Size
+:---: | --- | ---
+22  | nuts  | 10-32
+8   | bolts | 3/4" 10-32
+10  | bolts | 1" 10-32
+4   | bolts | 1-1/4" 10-32
+8   | nuts  | 6-32
+8   | bolts | 3/4" 6-32
+2   | nuts  | 4-40
+4   | bolts | 1/2" 4-40
 
 #### Assembly Tools
 
