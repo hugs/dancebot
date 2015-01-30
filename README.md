@@ -44,13 +44,13 @@ Quantity | Description
 Quantity | Type | Size
 :---: | --- | ---
 22  | nuts  | 10-32
-8   | bolts | 3/4" 10-32
-10  | bolts | 1" 10-32
-4   | bolts | 1-1/4" 10-32
+8   | bolts | 10-32 3/4" 
+10  | bolts | 10-32 1" 
+4   | bolts | 10-32 1-1/4" 
 8   | nuts  | 6-32
-8   | bolts | 3/4" 6-32
+8   | bolts | 6-32 3/4" 
 2   | nuts  | 4-40
-4   | bolts | 1/2" 4-40
+4   | bolts | 4-40 1/2"
 
 #### Assembly Tools
 
