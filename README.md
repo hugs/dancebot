@@ -71,11 +71,4 @@ Build instructions can be found [here](http://www.flickr.com/photos/68386867@N05
 
 1. Download and install [the Arduino Client](http://arduino.cc/en/Guide/HomePage)
 2. Follow the setup procedure, and use the "blink" test script to verify your Arduino is working
-3. From the Arduino IDE upload the "Firmata" script: `File` -> `Open` -> `Examples` > `Firmata` > `StandardFirmata`
-
-#### Node
-
-1. [Install Node](http://nodejs.org/download/)
-2. Install the dependencies: `npm install`
-3. Start'er up: `node bot.js`
-4. Start dancin': `dance()`
+3. From the Arduino IDE upload the Dancebot sketch: https://gist.github.com/hugs/32ff6dcc2191a9f14d95
