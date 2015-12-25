@@ -63,7 +63,7 @@ Quantity | Description
 
 ### Assembly
 
-Build instructions can be found [here](http://www.flickr.com/photos/68386867@N05/sets/72157642481371803/).
+Build instructions can be found [here](https://github.com/hugs/dancebot/blob/master/instructions.pdf).
 
 ### Programming
 
