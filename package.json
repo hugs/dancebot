@@ -14,8 +14,8 @@
       "url":"https://github.com/hugs/dancebot.git"
    },
    "dependencies":{
-      "johnny-five":"0.7.17",
-      "socket.io":"0.9.11"
+      "johnny-five":"*",
+      "socket.io":"*"
    },
    "keywords":[
 
