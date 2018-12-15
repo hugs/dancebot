@@ -1,7 +1,9 @@
-<center>
-## Dancebot - The Dancing Robot
+
+
+  ## Dancebot - The Dancing Robot
 __By Jason Huggins ([@hugs](https://twitter.com/hugs))__
-</center>
+
+
 
 ### Overview
 
